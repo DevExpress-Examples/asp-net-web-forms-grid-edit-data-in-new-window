@@ -1,5 +1,5 @@
 ﻿Imports System
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 
 Partial Public Class Grid_Editing_CustomUpdate_CustomUpdate
 	Inherits System.Web.UI.Page
