@@ -6,7 +6,7 @@
 
 # Grid View for ASP.NET Web Forms - How to edit row data in a new window
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e65/)**
+**[[Run Online]](https://codecentral.devexpress.com/128537321/)**
 <!-- run online end -->
 
 This example demonstrates how to edit a record in a new window (in a separate aspx page).
