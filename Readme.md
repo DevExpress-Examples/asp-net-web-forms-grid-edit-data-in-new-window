@@ -17,7 +17,7 @@ This example demonstrates how to edit a record in a new window (in a separate as
 * [EditForm.aspx](./CS/WebSite/EditForm.aspx) (VB: [EditForm.aspx](./VB/WebSite/EditForm.aspx))
 * [EditForm.aspx.cs](./CS/WebSite/EditForm.aspx.cs) (VB: [EditForm.aspx.vb](./VB/WebSite/EditForm.aspx.vb))
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-edit-data-in-new-window&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-edit-data-in-new-window&~~~was_helpful=no)
 
